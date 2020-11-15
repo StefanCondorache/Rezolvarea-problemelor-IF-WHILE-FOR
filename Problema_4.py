@@ -31,7 +31,7 @@ elif numitor1!=numitor2:
     if numitor==1:
         print("soluția adunării=",numarator)
     elif numarator%numitor==0:
-        print("soluția înmulțirii=",numarator//numitor)
+        print("soluția adunării=",numarator//numitor)
     elif numarator==numitor:
         print("soluția adunării=",1)
     elif numarator<numitor:
